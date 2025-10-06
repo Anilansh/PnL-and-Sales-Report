@@ -6,7 +6,7 @@ Excel | Power Query | Power Pivot | DAX | Pivot Tables
 ---
 
 ### 📊 Project Overview
-Developed a comprehensive reporting system for AtliQ Hardware that integrates both **Sales Performance Analysis** and **Profit & Loss (P&L) Reporting**.  
+Developed a comprehensive reporting system for AtliQ Hardware that integrates both **Sales Performance Analysis** and **Profit & Loss (P&L) Report**.  
 The project processed over **1 million transactional records** to deliver automated, data-driven insights across multiple years (2019–2021), divisions, and markets.  
 It supports leadership in evaluating sales growth, profitability trends, and target performance through dynamic, interactive Excel dashboards.
 
