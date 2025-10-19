@@ -14,7 +14,7 @@ It supports leadership in evaluating sales growth, profitability trends, and tar
 
 ### ⚙️ Process & Methodology
 1. **Data Extraction & Transformation:**  
-   - Utilized **Power Query** to perform ETL (Extract, Transform, Load) operations, automating data cleaning and integration from multiple Excel and CSV sources, saving **4+ hours** of manual effort per update.  
+   - Utilized **Power Query** to perform **ETL (Extract, Transform, Load)** operations, automating data cleaning and integration from multiple Excel and CSV sources, saving **4+ hours** of manual effort per update.  
 
 2. **Data Modeling & KPI Creation:**  
    - Established relationships between data models in **Power Pivot** and implemented **DAX measures** for key metrics including **Net Sales**, **COGS**, **Gross Margin (GM%)**, **Growth%**, and **Target Achievement%**.  
@@ -57,11 +57,17 @@ It supports leadership in evaluating sales growth, profitability trends, and tar
 ---
 
 ### 📂 Deliverables
-- [Division Sales Report](link-to-your-pdf-1)  
-- [Sales Performance (All Markets)](link-to-your-pdf-2)  
-- [Performance vs Target Report](link-to-your-pdf-3)  
-- [P&L Report by Market](link-to-your-pdf-4)  
-- [Quarterly GM% Report](link-to-your-pdf-5)  
+- [Customer Net Sales Performance All Markets](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/etl_sales_report_all_market.pdf)  
+- [Customer Net Sales Performance for India](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/salesreport_india.pdf)  
+- [Market Performance vs Target](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/performance%20vs%20target%20report.pdf)
+- [P & L for Markets in 2021](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/P%26L%20for%20markets%20in%202021(report%201).pdf)
+- [GM% by Quarters (sub_zone)](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/GM%25%20by%20quarters%20sub_zone(report%202).pdf)
+- [Top 10 Products](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/Top%2010%20products.pdf)
+- [Top & Bottom 5 Products by Qty](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/Top%20%26%20Bottom%205%20products%20in%20qty.pdf)
+- [New Products in 2021](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/new%20products%20in%202021.pdf)
+- [Division Report](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/Division%20report.pdf)
+- [Top 5 Countries in 2021](https://github.com/Anilansh/PnL-and-Sales-Report/blob/0ef05a0827cf12d096b269789aa2548bc045d848/Report%20pdfs/top%205%20countries%202021.pdf)
+
 
 ---
 
@@ -75,4 +81,4 @@ It supports leadership in evaluating sales growth, profitability trends, and tar
 
 ### 👤 Author
 **Anilansh Yadav**  
-[LinkedIn Profile](your-linkedin-link) | [Portfolio Website](your-portfolio-link)
+[LinkedIn Profile](http://www.linkedin.com/in/anilansh-yadav) | [Portfolio Website](your-portfolio-link)
